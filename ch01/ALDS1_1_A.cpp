@@ -1,4 +1,5 @@
 // 3.2
+// insertion sort
 
 #include <stdio.h>
 
