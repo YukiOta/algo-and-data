@@ -1,6 +1,5 @@
 // 7.4
 // 計測ソート
-// not working
 
 #include <stdio.h>
 #include <stdlib.h>
